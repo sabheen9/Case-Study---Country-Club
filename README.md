@@ -1,3 +1,3 @@
 
 <h1 align="center">Case-Study---Country-Club</h1>
-![logo](https://github.com/sabheen9/sabheen9/blob/main/3.jpg)
+<img align="center" alt="Data Scientist" width="700" src="https://github.com/sabheen9/Case-Study---Country-Club/blob/main/threetables.jpg">
